@@ -1,0 +1,12 @@
+
+let practiceFile = [273.15];
+a.42
+ practiceFile.push(42);
+ console.log(practiceFile);
+
+b.push a&b
+ practiceFile.push("42","hello"); 
+
+c.false, -4.6, "87"
+  practiceFile.push(false, -4.6, "87");
+ 
